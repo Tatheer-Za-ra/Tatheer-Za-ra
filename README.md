@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Tatheer%20Zahra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Tatheer%20Zahra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/Tatheer-Za-ra">
@@ -348,4 +348,4 @@ University Students
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn" />
