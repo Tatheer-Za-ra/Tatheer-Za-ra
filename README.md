@@ -234,7 +234,7 @@ University Students
 <br/><br/>
 
 <!-- Streak Stats -->
-<img width="68%" src="https://streak-stats.demolab.com/?user=Tatheer-Za-ra&theme=tokyonight&hide_border=false&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" />
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tatheer-Za-ra&theme=tokyonight&hide_border=false&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" />
 
 <br/><br/>
 
