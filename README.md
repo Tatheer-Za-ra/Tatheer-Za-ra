@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Dynamic Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=200&section=header&text=Tatheer%20Zahra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=200&section=header&text=Tatheer%20Zahra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Developer%20%7C%20Python%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/Tatheer-Za-ra">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Final-Year+CS+%40+QAU+%F0%9F%8E%93;Python+Developer+%7C+Full-Stack+Builder+%F0%9F%9A%80;AI+%2F+NLP+%2F+Computer+Vision+Explorer+%F0%9F%A4%96;Aspiring+Associate+Software+Engineer+%F0%9F%92%BC;Community+Lead+%40+MLSA+Women+in+Tech+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=BS+CS+Graduate+%40+QAU+%F0%9F%8E%93;MERN+Dev+Internee+%40+Ropstam+Solutions+%F0%9F%92%BC;Python+Developer+%7C+Full-Stack+Builder+%F0%9F%9A%80;AI+%2F+NLP+%2F+Computer+Vision+Explorer+%F0%9F%A4%96;Community+Lead+%40+MLSA+Women+in+Tech+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,6 +23,8 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/CGPA-3.8%2F4.0-7C3AED?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ropstam%20Solutions-MERN%20Dev%20Internee-7C3AED?style=flat-square&logo=mongodb&logoColor=white" alt="Ropstam" />
 </p>
 
 </div>
@@ -36,30 +38,33 @@ class TatheerZahra:
     def __init__(self):
         self.name        = "Tatheer Zahra"
         self.university  = "Quaid-i-Azam University, Islamabad"
-        self.degree      = "BS Computer Science (Final Year)"
+        self.degree      = "BS Computer Science (Graduate)"
         self.cgpa        = "3.8 / 4.0"
-        self.role        = "Community Lead @ MLSA Women in Tech"
+        self.current_role = "MERN Dev Internee @ Ropstam Solutions Inc., Islamabad"
+        self.community   = "Community Lead @ MLSA Women in Tech"
         self.email       = "tatheer2448@gmail.com"
 
     @property
     def interests(self):
         return [
-            "Software Engineering",
+            "Full-Stack Development (MERN)",
             "Python Development",
-            "Full-Stack Applications",
             "AI / NLP / Computer Vision",
+            "Software Engineering",
         ]
 
     @property
     def currently_working_on(self):
-        return "AI-Based Home Security Surveillance System (FYP)"
+        return [
+            "MERN stack projects @ Ropstam Solutions",
+            "AI-Based Home Security Surveillance System",
+        ]
 
     @property
-    def seeking(self):
+    def tech_focus(self):
         return [
-            "Associate Software Engineer",
-            "Graduate Software Engineer",
-            "Python Developer",
+            "MongoDB", "Express.js", "React", "Node.js",
+            "Python", "Next.js", "AI/ML Applications",
         ]
 
     def __str__(self):
@@ -70,13 +75,13 @@ class TatheerZahra:
 <summary><b>🔍 A bit more about me...</b></summary>
 <br>
 
-- 🎓 Final-year **BS Computer Science** student at **Quaid-i-Azam University**, Islamabad
-- 📊 **CGPA: 3.8 / 4.0** — Merit Scholarship recipient across Semesters 1, 2, 3, 5 & 6
+- 🎓 **BS Computer Science Graduate** from **Quaid-i-Azam University**, Islamabad — CGPA: 3.8 / 4.0
+- 💼 Currently working as **MERN Dev Internee @ Ropstam Solutions Inc.**, Islamabad
 - 🏅 **HEC NSCT: 98.1 percentile** — Top national ranking in skill competency
-- 👩‍💻 Currently focused on building **production-ready, documented, deployed** software projects
-- 🤖 Actively developing AI applications using **NLP, Computer Vision, and Machine Learning**
-- 🌱 Learning: cleaner code, backend/API development, deployment workflows, and production-grade practices
-- 💡 Passionate about applying **AI models in practical software applications**
+- 🎖️ Merit Scholarship recipient across Semesters 1, 2, 3, 5 & 6 at QAU
+- 🤖 Building AI applications using **NLP, Computer Vision, and Machine Learning**
+- 🌱 Growing in: MERN stack development, backend APIs, and production-grade software practices
+- 💡 Passionate about applying **AI models in practical full-stack applications**
 
 </details>
 
@@ -264,6 +269,13 @@ University Students
 
 <div align="center">
 
+**🔥 MERN Stack** *(Current Focus @ Ropstam)*
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -282,7 +294,10 @@ University Students
 
 **Backend & Databases**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
