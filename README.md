@@ -233,8 +233,13 @@ University Students
 
 <br/><br/>
 
-<!-- Streak Stats -->
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tatheer-Za-ra&theme=tokyonight&hide_border=false&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" />
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Tatheer-Za-ra&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Streak Stats — cache_seconds=0 forces GitHub proxy to re-fetch -->
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tatheer-Za-ra&theme=tokyonight&hide_border=false&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&cache_seconds=0" alt="GitHub Streak" />
 
 <br/><br/>
 
