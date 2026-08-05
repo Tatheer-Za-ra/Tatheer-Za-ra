@@ -228,12 +228,18 @@ University Students
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tatheer-Za-ra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatheer-Za-ra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" />
+<!-- Widget Box: repos, stars, commits summary -->
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Tatheer-Za-ra&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile Summary" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Tatheer-Za-ra&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+<!-- Streak Stats -->
+<img width="68%" src="https://streak-stats.demolab.com/?user=Tatheer-Za-ra&theme=tokyonight&hide_border=false&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tatheer-Za-ra&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" alt="Contribution Activity Graph" />
 
 </div>
 
