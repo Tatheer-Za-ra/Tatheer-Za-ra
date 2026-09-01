@@ -1,4 +1,4 @@
-<div align="center">
+<img width="169" height="371" alt="image" src="https://github.com/user-attachments/assets/50268954-a188-42c8-a384-be58717d5dd2" /><div align="center">
 
 <!-- Dynamic Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=200&section=header&text=Tatheer%20Zahra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Developer%20%7C%20Python%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
@@ -153,7 +153,7 @@ class TatheerZahra:
 <td align="center" width="33%">
 
 ### 🏠 AI Home Security Surveillance
-**[View Repo →](https://github.com/Tatheer-Za-ra/ai-home-security)**
+**[View Repo →](https://github.com/Tatheer-Za-ra/speed-person-tracker-home-security)**
 
 🔴 *Final Year Project — In Progress*
 
